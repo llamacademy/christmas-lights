@@ -1,7 +1,6 @@
 # Add Christmas Lights To Your Scene
 
-This repository corresponds with the below video tutorial that shows how to add christmas lights into your game, for free. It's using the Free [SpeedTrees package from the Asset Store](https://assetstore.unity.com/packages/3d/vegetation/speedtree/free-speedtrees-package-29170) as an example. This has since been taken down from the Asset Store (if you already added it to your assets, you can still download it). You may use any [free tree package](https://assetstore.unity.com/?free=true&q=tree&orderBy=1), but you can follow that process with any tree.
-To use this repository make sure you import the Free SpeedTrees package, otherwise there will be some missing references.
+This repository corresponds with the below video tutorial that shows how to add christmas lights into your game, for free. It's using the Free [SpeedTrees package from the Asset Store](https://assetstore.unity.com/packages/3d/vegetation/speedtree/free-speedtrees-package-29170) as an example. This has since been taken down from the Asset Store (if you already added it to your assets, you can still download it). You may use any [free tree package](https://assetstore.unity.com/?free=true&q=tree&orderBy=1) to achieve the same result. 
 
 [![Youtube Tutorial](./Video%20Screenshot.png)](https://youtu.be/PXaEG7sZkms)
 
